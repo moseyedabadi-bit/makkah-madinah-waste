@@ -53,5 +53,74 @@ Conceptual examples may include:
 - Quiet prompts integrated into the environment
 
 Language is kept simple,
-an
+and meaning is prioritized over explanation.
 
+---
+
+## Avoidance of Moral Pressure
+
+This framework intentionally avoids:
+
+- Fear-based messaging
+- Threatening language
+- Guilt-driven narratives
+- Public moral comparison
+
+Spiritual spaces require reassurance,
+not intimidation.
+
+---
+
+## Cultural Sensitivity
+
+Given the diversity of pilgrims,
+symbolic elements should:
+
+- Transcend language barriers
+- Avoid cultural specificity
+- Remain universally understandable
+- Respect different traditions
+
+Neutral symbolism ensures inclusivity.
+
+---
+
+## Integration with Physical Environment
+
+Symbolic elements are most effective
+when harmonized with the surrounding environment.
+
+They should:
+
+- Blend naturally
+- Avoid visual overload
+- Respect architectural dignity
+- Remain unobtrusive
+
+The message should be felt,
+not announced.
+
+---
+
+## Expected Ethical Impact
+
+Through gentle symbolic presence,
+this approach aims to:
+
+- Heighten self-awareness
+- Encourage mindful behavior
+- Reduce careless littering
+- Support emotional connection to cleanliness
+- Strengthen collective respect
+
+---
+
+## Closing Reflection
+
+Symbols do not instruct.
+
+They remind.
+
+And remembrance,
+in sacred spaces,
+often speaks louder than command.
