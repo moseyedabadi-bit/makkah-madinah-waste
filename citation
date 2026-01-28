@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "Makkah & Madinah – Responsible Waste Management Framework"
+message: "This work is dedicated to God and humanity. It may be used freely without attribution."
+type: software
+authors:
+  - family-names: "Seyedabadi"
+    given-names: "Mostafa"
+    affiliation: "Servant of God"
+repository-code: "https://github.com/moseyedabadi-bit/makkah-madinah-waste"
+abstract: >
+  A conceptual and ethical framework for responsible and circular waste management
+  in the Holy Sites of Makkah and Madinah. This work is offered as a public good,
+  dedicated to God and His servants, and may be used, adapted, or implemented
+  freely without restriction or attribution.
+keywords:
+  - Circular Economy
+  - Responsible Waste
+  - Hajj
+  - Umrah
+  - Holy Sites
+  - Sustainability
+  - Ethical Framework
+license: "CC0-1.0"
