@@ -76,5 +76,58 @@ This framework recognizes caravan leaders
 as the primary behavioral transmitters.
 
 Their role is not enforcement,
-but g
+but guidance and reminder.
 
+---
+
+## Messaging Principles
+
+Educational messages should adhere to the following principles:
+
+- Respectful tone
+- Non-judgmental language
+- Collective framing (“we” instead of “you”)
+- Emphasis on dignity and care
+- Avoidance of fear-based narratives
+
+The objective is internal motivation,
+not external pressure.
+
+---
+
+## Reinforcement During Pilgrimage
+
+Behavioral awareness may be reinforced through:
+
+- Repeated short reminders
+- Visual cues near shared spaces
+- Simple symbols of responsibility
+- Positive reinforcement messaging
+
+Consistency matters more than volume.
+
+---
+
+## Expected Ethical Impact
+
+Through sustained education and trusted communication,
+this approach seeks to:
+
+- Reduce unintentional littering
+- Increase shared responsibility awareness
+- Strengthen mutual respect among pilgrims
+- Support operational cleanliness efforts
+- Align worship behavior with ethical conduct
+
+---
+
+## Closing Reflection
+
+Behavior cannot be commanded into existence.
+
+It grows through understanding,
+guidance,
+and shared moral awareness.
+
+Education is therefore not a supplement to infrastructure —
+it is its foundation.
