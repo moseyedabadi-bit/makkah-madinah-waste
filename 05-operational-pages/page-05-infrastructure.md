@@ -45,5 +45,88 @@ The objective is guidance, not control.
 
 ---
 
-## Waste Separation Conc
+## Waste Separation Concept
 
+Where appropriate,
+basic separation between waste categories
+may be introduced conceptually,
+such as:
+
+- Recyclable materials
+- General waste
+
+The intention is not perfect sorting,
+but gradual behavioral awareness.
+
+Simplicity is prioritized over precision.
+
+---
+
+## Design Principles
+
+Infrastructure within sacred environments
+should adhere to the following principles:
+
+- Visual clarity without visual pollution
+- Cultural sensitivity
+- Non-intrusive placement
+- Accessibility for elderly pilgrims
+- Compatibility with existing operations
+
+Design should blend into the environment,
+not dominate it.
+
+---
+
+## Integration with Behavioral Messaging
+
+Physical infrastructure is most effective
+when paired with consistent messaging.
+
+Simple icons, symbols, or short guidance phrases
+may reinforce proper use
+without reliance on language.
+
+This supports inclusivity
+across national and linguistic boundaries.
+
+---
+
+## Operational Alignment
+
+This framework recognizes that
+existing operational authorities
+retain full responsibility for:
+
+- Collection
+- Transport
+- Processing
+- Workforce management
+
+The model does not seek to modify
+or replace established systems.
+
+It merely proposes alignment between
+behavioral intent and physical environment.
+
+---
+
+## Expected Ethical Impact
+
+Behavior-supportive infrastructure may:
+
+- Reduce accidental littering
+- Improve safety in walking areas
+- Enhance visual cleanliness
+- Support staff effectiveness
+- Reinforce shared responsibility
+
+---
+
+## Closing Reflection
+
+Infrastructure speaks quietly.
+
+When designed with intention,
+it guides without command
+and supports worship without distraction.
