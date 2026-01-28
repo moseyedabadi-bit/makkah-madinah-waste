@@ -62,5 +62,71 @@ and strengthens shared identity.
 
 ---
 
-## Forms
+## Forms of Symbolic Recognition
 
+Possible non-monetary recognition mechanisms
+may include:
+
+- Sustainability distinction titles
+- Ethical stewardship acknowledgment
+- Public appreciation within organizational frameworks
+- Post-pilgrimage recognition reports
+
+These mechanisms remain conceptual
+and subject to institutional discretion.
+
+---
+
+## Avoidance of Perverse Incentives
+
+This framework explicitly avoids:
+
+- Cash rewards
+- Individual payments
+- Token trading
+- Point monetization
+- Market-like behavior
+
+Such mechanisms risk transforming responsibility
+into transaction.
+
+---
+
+## Alignment with Ethical Values
+
+The incentive philosophy aligns with:
+
+- Sincerity of worship (Ikhlas)
+- Collective responsibility
+- Mutual encouragement
+- Preservation of dignity
+- Avoidance of exploitation
+
+The objective is moral reinforcement,
+not material gain.
+
+---
+
+## Expected Ethical Impact
+
+Through carefully designed symbolic incentives,
+this approach aims to:
+
+- Increase voluntary participation
+- Encourage positive peer influence
+- Sustain motivation throughout pilgrimage
+- Support operational cleanliness
+- Preserve spiritual integrity
+
+---
+
+## Closing Reflection
+
+Responsibility loses its meaning
+when purchased.
+
+When acknowledged with dignity,
+it becomes internalized.
+
+True incentive strengthens intention —
+it does not replace it.
