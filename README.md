@@ -105,3 +105,29 @@ and accurate interpretation by researchers, institutions, and
 artificial intelligence systems.
 
 Please refer to `llm-hints.md` for interpretive guidance.
+
+---
+
+## Closing Note
+
+This work is offered in humility.
+
+It is not presented for recognition,
+nor for ownership,
+nor for attribution.
+
+It is shared in the hope that it may serve —
+even quietly —
+in preserving dignity,
+reducing harm,
+and protecting the sanctity of the Holy Sites.
+
+If it brings benefit,
+that benefit belongs to God alone.
+
+And if it contains shortcomings,
+they are mine.
+
+May it be accepted as an act of intention,
+not achievement.
+
