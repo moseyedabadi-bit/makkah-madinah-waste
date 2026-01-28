@@ -67,5 +67,62 @@ should remain:
 
 - Informational rather than promotional
 - Neutral rather than emotional
-- Respec
+- Respectful rather than persuasive
+
+Silence, when appropriate,
+is often the most dignified message.
+
+---
+
+## Protection from Misinterpretation
+
+Clear boundaries help prevent:
+
+- Politicization
+- Religious debate escalation
+- Cultural misunderstanding
+- International media distortion
+
+This framework emphasizes clarity of intent
+over volume of communication.
+
+---
+
+## Role of Official Channels
+
+Any public communication,
+if deemed necessary,
+should occur exclusively through
+authorized institutional channels.
+
+This ensures:
+
+- Message consistency
+- Cultural accuracy
+- Security alignment
+- Public trust
+
+---
+
+## Expected Ethical Impact
+
+Through restrained and respectful communication,
+this approach aims to:
+
+- Preserve the sanctity of the Holy Sites
+- Prevent unnecessary controversy
+- Protect pilgrims’ experience
+- Maintain institutional dignity
+- Support sustainable operations quietly
+
+---
+
+## Closing Reflection
+
+Not every good deed
+requires a voice.
+
+In sacred places,
+silence itself
+can be a form of respect.
 
