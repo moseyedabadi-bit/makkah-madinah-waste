@@ -1,1 +1,71 @@
+# Page 09 – Media & Perception Management
+
+## Purpose
+
+This section addresses the importance of perception,
+communication clarity,
+and narrative responsibility
+surrounding sustainability initiatives
+within the Holy Sites.
+
+Its objective is to prevent misunderstanding,
+misrepresentation,
+or unintended controversy.
+
+---
+
+## Context
+
+Pilgrimage environments operate under intense global visibility.
+
+Any initiative associated with the Holy Sites
+may quickly attract public interpretation,
+media framing,
+or external commentary.
+
+Without careful narrative management,
+well-intentioned efforts may be misread.
+
+---
+
+## Principle of Quiet Contribution
+
+This framework adopts the principle of
+"quiet contribution."
+
+Responsible waste management is presented as:
+
+- A supportive effort
+- A background service
+- A dignity-preserving practice
+
+Not as a public campaign or promotional showcase.
+
+Cleanliness should be experienced,
+not announced.
+
+---
+
+## Avoidance of Attribution Narratives
+
+The framework discourages:
+
+- Personal branding
+- Organizational credit-seeking
+- Visibility competition
+- Public performance narratives
+
+The objective is service,
+not recognition.
+
+---
+
+## Media Neutrality
+
+Communication related to such initiatives
+should remain:
+
+- Informational rather than promotional
+- Neutral rather than emotional
+- Respec
 
