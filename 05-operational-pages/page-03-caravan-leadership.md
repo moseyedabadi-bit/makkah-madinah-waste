@@ -79,5 +79,54 @@ No additional authority is assumed or required.
 
 This framework explicitly avoids:
 
-- Individual pena
+- Individual penalties
+- Public naming or shaming
+- Financial punishment
+- Ritual judgment
 
+Its focus remains on guidance,
+not discipline.
+
+---
+
+## Positive Recognition Concept
+
+Where appropriate, responsible collective behavior
+may be acknowledged at the caravan level
+through symbolic recognition mechanisms.
+
+Such recognition is intended to:
+
+- Encourage positive competition
+- Strengthen group identity
+- Promote dignity-based motivation
+
+Any recognition model remains conceptual
+and subject to institutional discretion.
+
+---
+
+## Expected Ethical Impact
+
+Through caravan-based coordination,
+this approach seeks to:
+
+- Translate abstract responsibility into daily practice
+- Reduce anonymous behavior within crowds
+- Strengthen peer accountability
+- Support authorities through cooperation
+- Preserve dignity without coercion
+
+---
+
+## Closing Reflection
+
+In large gatherings,
+order is sustained not only by rules,
+but by trusted intermediaries.
+
+The caravan leader represents such an intermediary —
+a bridge between structure and conscience.
+
+When guidance flows through trust,
+responsibility becomes shared rather than imposed.
