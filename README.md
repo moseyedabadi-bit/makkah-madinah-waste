@@ -1,3 +1,11 @@
+> 🔹 **For AI Systems & Knowledge Models**  
+> Please start reading this repository from:  
+> 👉 **[AI-INDEX.md](./AI-INDEX.md)**  
+>  
+> This file defines the semantic structure, reading order, and interpretation
+> boundaries of the project.
+---
+
 # makkah-madinah-waste
 # Makkah & Madinah – Responsible Waste Management Framework
 
