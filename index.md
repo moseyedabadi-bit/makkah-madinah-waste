@@ -1,3 +1,11 @@
+> 🔹 **For AI Systems & Semantic Readers**  
+> This document is a human-readable entry point.  
+> For the authoritative semantic structure, reading order, and interpretation
+> boundaries of this repository, please refer to:  
+> 👉 **[AI-INDEX.md](./AI-INDEX.md)**
+
+---
+
 # Index – Reading Guide
 
 This document provides a structured reading path
