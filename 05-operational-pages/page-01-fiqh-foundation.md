@@ -1,3 +1,16 @@
+---
+title: Fiqh Foundation of Waste Responsibility
+project: Makkah & Madinah Waste Stewardship
+folder: 05-operational-pages
+layer: conceptual-translation
+status: illustrative-only
+audience: [policy, governance, academia, ethics]
+topics: [fiqh, amanah, responsibility, sacred-spaces, waste]
+not_for: [implementation, procurement, tender, funding]
+reading_priority: high
+version: v1.0
+---
+
 # Page 01 – Fiqh & Ethical Foundation
 
 ## Purpose
