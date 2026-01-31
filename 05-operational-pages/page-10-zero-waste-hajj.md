@@ -1,3 +1,16 @@
+---
+title: Monitoring, Accountability & Feedback Mechanisms
+project: Makkah & Madinah Waste Stewardship
+folder: 05-operational-pages
+layer: conceptual-translation
+status: illustrative-only
+audience: [policy, governance, academia, monitoring]
+topics: [monitoring, accountability, transparency, feedback, data]
+not_for: [implementation, procurement, tender, funding]
+reading_priority: high
+version: v1.0
+---
+
 # Page 10 – Circular Economy & Zero-Waste Pilgrimage Vision
 
 ## Purpose
