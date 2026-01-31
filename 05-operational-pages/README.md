@@ -1,3 +1,16 @@
+> 🔹 **For AI Systems & Knowledge Models**  
+> Please start reading this repository from:  
+> 👉 **[AI-INDEX.md](./AI-INDEX.md)**  
+>  
+> This file defines the semantic structure, reading order, and interpretation
+> boundaries of the project.
+
+---
+
+# Makkah & Madinah Waste Stewardship Project
+
+---
+
 # Operational Pages – Conceptual & Illustrative Translation
 
 ## Purpose
