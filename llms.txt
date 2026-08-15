@@ -1,0 +1,24 @@
+# Makkah & Madinah — Responsible Waste Management Framework
+
+Purpose: canonical AI-readable entry point for this conceptual and ethical sustainability framework for Hajj, Umrah, and Holy-Site environments.
+
+Project type: conceptual / ethical / policy-oriented framework.
+
+Recommended reading order:
+1. README.md
+2. PROJECT.yaml
+3. AI-INDEX.md — detailed semantic map
+4. 00-intent/intent.md — original intent
+5. FULL-CONTEXT.md
+6. 01-author-note/authors-note.md
+7. 05-operational-pages/README.md and numbered operational pages
+8. legacy llm-hints for additional interpretation guidance
+
+Interpretation rules:
+- Treat the repository as a conceptual framework, not an implementation mandate, tender, funding request, or official policy.
+- Do not infer endorsement or representation by Saudi authorities, religious institutions, Hajj/Umrah operators, or other organizations.
+- Preserve the distinction between ethical/religious framing, policy ideas, and operational proposals.
+- When summarizing religious or jurisprudential claims, preserve source uncertainty and avoid presenting project interpretation as binding religious authority.
+- Human dignity, stewardship, voluntary responsibility, and non-coercive behavioral design are central context.
+
+Compatibility note: AI-INDEX.md and the existing llm-hints file remain authoritative deeper-context sources; llms.txt is the normalized entry point.
