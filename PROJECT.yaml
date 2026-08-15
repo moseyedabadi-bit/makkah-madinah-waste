@@ -1,0 +1,34 @@
+schema_version: 1
+project:
+  name: Makkah-and-Madinah-Responsible-Waste-Management
+  type: conceptual-ethical-framework
+  status: research-reference
+  domains:
+    - waste-management
+    - circular-economy
+    - pilgrimage-sustainability
+    - behavioral-design
+    - governance
+  contexts:
+    - Hajj
+    - Umrah
+    - Makkah
+    - Madinah
+  human_entry: README.md
+  ai_entry: llms.txt
+  detailed_ai_index: AI-INDEX.md
+  intent_source: 00-intent/intent.md
+  author:
+    name: Mostafa Seyedabadi
+    role: Concept Steward / System Architect
+interpretation:
+  deployment_claim: false
+  official_policy_claim: false
+  institutional_endorsement_claim: false
+  commercial_proposal_claim: false
+  religious_authority_claim: false
+safety:
+  preserve_human_dignity: true
+  avoid_coercive_behavioral_design: true
+  prohibit_secrets: true
+  prohibit_sensitive_personal_data: true
